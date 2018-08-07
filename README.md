@@ -1,0 +1,3 @@
+Work in progress of Wordpress local development environment using Docker.
+
+Currently, isn't installing NPM...
